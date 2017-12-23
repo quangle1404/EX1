@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EX1</string>
+    <string name="title_home">Home</string>
+    <string name="title_Dict">Dictionary</string>
+    <string name="title_Settings">Setting</string>
+    <string name="study_sets">Study Sets</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_new_study_set">Create New Study Set</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="version">Version</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="help_center">Help Center</string>
+    <string name="report_a_bug">Report a bug</string>
+    <string name="log_out">Log Out</string>
+    <string name="input_word">Input Word</string>
+    <string name="defintions_of_word">Defintions Of Word</string>
+</resources>
