@@ -18,4 +18,13 @@
     <string name="log_out">Log Out</string>
     <string name="input_word">Input Word</string>
     <string name="defintions_of_word">Defintions Of Word</string>
+    <string name="title">TITLE</string>
+    <string name="subject_title_unit">Subject, Title, Unit</string>
+    <string name="term">Term</string>
+    <string name="definition">Definition</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="log_in_with_your_email">LOG IN WITH YOUR EMAIL</string>
+    <string name="forgot_your">Forgot your</string>
+
 </resources>
